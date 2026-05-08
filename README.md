@@ -1,4 +1,4 @@
 # Test-repo
 this is my first git repo.
 <br>
-Author: Dev Ahmad
+Author: Dev Shahid Ahmad
